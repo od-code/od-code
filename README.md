@@ -8,7 +8,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, git, Github**
 
 - 📫 How to reach me **derrickatongo@gmail.com**
-
+- 👨‍💻 All of my projects are available at [https://odari-atongo.netlify.app/](https://odari-atongo.netlify.app/)
 - ⚡ Fun fact **I take good pictures**
 
 <h3 align="left">Connect with me:</h3>
