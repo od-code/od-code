@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **derrickatongo@gmail.com**
 - 👨‍💻 All of my projects are available at [https://odari-atongo.netlify.app/](https://odari-atongo.netlify.app/)
-- ⚡ Fun fact **I take good pictures**
+- ⚡ Fun fact **I know how to exit vim😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
