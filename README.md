@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=od-code&label=Profile%20views&color=0e75b6&style=flat" alt="od-code" /> </p>
 
-- 🌱 I’m currently learning **C, NextJs, Graghql Tailwind, and Springboot**
+- 🌱 I’m currently learning **C, NextJs, Graghql, Tailwind, and Springboot**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Typescript, ReactJs, Material UI, JavaScript, git, GitHub**
 
