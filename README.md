@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Odari Derrick Atongo</h1>
+<h1 align="center">Welcome to my World of imagination</h1>
 <h3 align="center">A creative Human</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=od-code&label=Profile%20views&color=0e75b6&style=flat" alt="od-code" /> </p>
 
-- 🌱 I’m currently learning **C, NextJs, Graghql, Tailwind, and Springboot**
+- 🌱 I’m currently learning **C, NextJs, Graghql, and Springboot**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Typescript, ReactJs, Material UI, JavaScript, git, GitHub**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Typescript,Tailwind, Nextjs ReactJs, Material UI, JavaScript, git, GitHub**
 
 - 📫 How to reach me **derrickatongo@gmail.com**
 - 👨‍💻 All of my projects are available at [https://odari-atongo.netlify.app/](https://odari-atongo.netlify.app/)
