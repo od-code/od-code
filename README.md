@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my World of imagination</h1>
+<h1 align="center">Welcome to my World of Imagination</h1>
 <h3 align="center">A creative Human</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=od-code&label=Profile%20views&color=0e75b6&style=flat" alt="od-code" /> </p>
