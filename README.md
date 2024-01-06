@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=od-code&label=Profile%20views&color=0e75b6&style=flat" alt="od-code" /> </p>
 
-- 🌱 I’m currently learning **C, NextJs, Graghql, and Springboot**
+- 🌱 I’m currently learning **C, NextJs and Springboot**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Typescript,Tailwind, Nextjs ReactJs, Material UI, JavaScript, git, GitHub**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Typescript,Tailwind, Nextjs ReactJs, Material UI, JavaScript, Graphql,  git, GitHub**
 
 - 📫 How to reach me **derrickatongo@gmail.com**
 - 👨‍💻 All of my projects are available at [https://odari-atongo.netlify.app/](https://odari-atongo.netlify.app/)
