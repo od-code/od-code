@@ -8,7 +8,6 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, Typescript,Tailwind, Nextjs ReactJs, Material UI, JavaScript, Graphql,  git, GitHub**
 
 - 📫 How to reach me **derrickatongo@gmail.com**
-- 👨‍💻 All of my projects are available at [Derrick Odari](https://portfolio-od-code.vercel.app/)
 - ⚡ Fun fact **I know how to exit vim😂**
 
 <h3 align="left">Connect with me:</h3>
